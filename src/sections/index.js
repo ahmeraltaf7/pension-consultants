@@ -1,0 +1,14 @@
+export { default as Hero } from "./Hero";
+export { default as About } from "./About";
+export { default as Help } from "./Help";
+export { default as Services } from "./Services";
+export { default as BookInside } from "./BookInside";
+export { default as ChooseUs } from "./ChooseUs";
+export { default as Results } from "./Results";
+export { default as PlanningKit } from "./PlanningKit";
+export { default as BecomeClient } from "./BecomeClient";
+export { default as RequestMeeting } from "./RequestMeeting";
+export { default as Testimonials } from "./Testimonials";
+export { default as Reading } from "./Reading";
+export { default as Faq } from "./Faq";
+export { default as BookSession } from "./BookSession";
